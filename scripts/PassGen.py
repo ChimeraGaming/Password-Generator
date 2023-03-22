@@ -6,6 +6,7 @@
 # PassGen.py Created by CBen-Judah
 # Folder and it's contents can be found at - https://github.com/dwyl/english-words
 
+
 ########################
 ## PASSWORD GENERATOR ##
 ########################
@@ -44,3 +45,5 @@ def generate_password(length):
 length = int(input("Enter desired password length: "))
 password = generate_password(length)
 print("Your new password is:", password)
+
+# If you encounter issues... Make sure you are using = Python 3.9.6
