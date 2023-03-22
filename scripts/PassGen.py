@@ -4,6 +4,7 @@
 #############
 
 # PassGen.py Created by CBen-Judah
+# Compiled and Tested in Visual Code Studio 1.76.2
 # Folder and it's contents can be found at - https://github.com/dwyl/english-words
 
 
